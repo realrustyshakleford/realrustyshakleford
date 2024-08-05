@@ -1,6 +1,6 @@
 # ⧻ 𓀞 𓀟 𓀠 𓀡 𓀤 𓂉 Welcome to my world.
 
-I'll admit I'm a bit of a "techno-leech," a sponge with whom your wonderous developments enable this parasitic relationship between you and I.
+I'll admit I'm a bit of a "techno-leech," a digital sponge with whom your wonderous developments enable this parasitic relationship between you and I.
 
 But people grow, situations change and relationships evolve (or devolve) in one way or another; [nothing is forever](https://www.youtube.com/watch?v=S_TdhhrUrv8). I've begun upskilling some existing abilities in website design, development and administration, but I plan to earnestly dive into programming and code in the near future. There's arguably never been a better time than now (as they say). GitHub has proven itself an inimitable resource and tool for my learning ventures – not to mention everything else available on the [World Wide Web](https://rationalwiki.org/wiki/Internet#.22Internet.22_vs._.22World_Wide_Web.22) – so the opportunities are ripe for the picking.
 
@@ -20,7 +20,7 @@ My username, [realrustyshakleford](https://github.com/realrustyshakleford), does
 
 ---
 
-### This is my story.
+### This is my story—a tome of buzzwords, clichés and other bullshit to (hopefully) encourage your kindness towards me.
 
 (Carry on if you care to read about me—but what's the point of a special profile-bound "README.md" repository if it's preoccupied with anything but the respective profile's user? I hope it's an enjoyable read and encourages some form of communication, whether it's a quick comment, a critique or whatever else my insufferable prolix style of chug-chug-chug, train-of-thought textual expression spurs you to say. *Can you dig it?*).
 
@@ -37,7 +37,7 @@ Now, if you're curious about me, let's briefly highlight my story's top five cha
 
 5. Lastly, regarding my professional ventures, I'm currently developing some other side projects focused on digital products and services—but with an intriguing twist. These ventures will use my newfound skills in programming and code, and I'm stoked to get down to business. Need I say more? I think not... because to be honest, I'm unsure how it relates to me and GitHub at the moment, and self-promotion is always so taboo. So I digress, and we'll leave it at that for today.
 
-Thank you for reading this brain dump. I welcome any comments, criticisms, etc.
+**Thank you for reading this brain dump. I welcome any comments, criticisms, etc., at any of the channels or addresses listed along the left sidebar.**
 
 <!--
 **realrustyshakleford/realrustyshakleford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
