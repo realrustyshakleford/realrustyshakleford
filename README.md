@@ -4,7 +4,7 @@ I'll admit I'm a bit of a "techno-leech," a digital sponge with whom your wonder
 
 But people grow, situations change and relationships evolve (or devolve) in one way or another; [nothing is forever](https://www.youtube.com/watch?v=S_TdhhrUrv8). I've begun upskilling some existing abilities in website design, development and administration, but I plan to earnestly dive into programming and code in the near future. There's arguably never been a better time than now (as they say). GitHub has proven itself an inimitable resource and tool for my learning ventures – not to mention everything else available on the [World Wide Web](https://rationalwiki.org/wiki/Internet#.22Internet.22_vs._.22World_Wide_Web.22) – so the opportunities are ripe for the picking.
 
-> **NOTE:** *I've borrowed much of the following details from my [Wikipedia user page](https://en.wikipedia.org/wiki/User:Real_Rusty_Shakleford) to save myself some time while relaying the parts of my personal story I consider relevant there and here.*
+> **NOTE:** *I've borrowed much of the following details from my [Wikipedia user page](https://en.wikipedia.org/wiki/User:Real_Rusty_Shakleford) to save myself some time while relaying the parts of my personal story I consider relevant there and here. I made some changes to reflect GitHub's distinct purpose, mission and services.*
 
 ---
 
@@ -37,7 +37,7 @@ Now, if you're curious about me, let's briefly highlight my story's top five cha
 
 5. Lastly, regarding my professional ventures, I'm currently developing some other side projects focused on digital products and services—but with an intriguing twist. These ventures will use my newfound skills in programming and code, and I'm stoked to get down to business. Need I say more? I think not... because to be honest, I'm unsure how it relates to me and GitHub at the moment, and self-promotion is always so taboo. So I digress, and we'll leave it at that for today.
 
-**Thank you for reading this brain dump. I welcome any comments, criticisms, etc., at any of the channels or addresses listed along the left sidebar.**
+**Thank you for reading this brain dump. I welcome any comments, criticisms, etc., at any of the channels or addresses [listed along the left sidebar](https://github.com/realrustyshakleford#:~:text=Power%20%26%20Philately,sludgefactorysleepyhouse).**
 
 <!--
 **realrustyshakleford/realrustyshakleford** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
