@@ -1,8 +1,8 @@
 # ⧻ 𓀞 𓀟 𓀠 𓀡 𓀤 𓂉 Welcome to my world.
 
-I'll admit I'm a bit of a "techno-leech," a digital sponge with whom your wonderous developments enable this parasitic relationship between you and I.
+I'll admit I'm a bit of a "techno-leech," a digital sponge with whom your wonderous developments enable this parasitic relationship between you and me.
 
-But people grow, situations change and relationships evolve (or devolve) in one way or another; [nothing is forever](https://www.youtube.com/watch?v=S_TdhhrUrv8). I've begun upskilling some existing abilities in website design, development and administration, but I plan to earnestly dive into programming and code in the near future. There's arguably never been a better time than now (as they say). GitHub has proven itself an inimitable resource and tool for my learning ventures – not to mention everything else available on the [World Wide Web](https://rationalwiki.org/wiki/Internet#.22Internet.22_vs._.22World_Wide_Web.22) – so the opportunities are ripe for the picking.
+But people grow, situations change and relationships evolve (or devolve) in one way or another; [nothing is forever](https://www.youtube.com/watch?v=S_TdhhrUrv8). I've begun modestly upskilling in website design, development and administration, but I plan to earnestly dive into programming and code in the near future. There's never been a better time than now, as it were, and GitHub provides an inimitable resource for my learning ventures – not to mention everything else available on the [World Wide Web](https://rationalwiki.org/wiki/Internet#.22Internet.22_vs._.22World_Wide_Web.22) – so the opportunities remain ripe for the picking.
 
 > **NOTE:** *I've borrowed much of the following details from my [Wikipedia user page](https://en.wikipedia.org/wiki/User:Real_Rusty_Shakleford) to save myself some time while relaying the parts of my personal story I consider relevant there and here. I made some changes to reflect GitHub's distinct purpose, mission and services.*
 
